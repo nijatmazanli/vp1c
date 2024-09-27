@@ -1,6 +1,8 @@
-body {
+* {
     align-items: center;
     margin: 0;
+    text-align: center;
+    align-content: center;
     font-family: Arial, sans-serif;
 }
 
@@ -44,7 +46,7 @@ div{
 }
 .plugins {
     float: left;
-    width: 30%;
+    width: 20%;
     border: 5px solid black;
 }
 
@@ -53,12 +55,11 @@ div{
     align-self: center;
     text-align: center;
     width: 37.79%;
-    border: 5px solid black;
 }
 
 .news {
     border: 5px solid black;
     text-align: center;
-    width: 30%;
+    width: 20%;
     float: right;
 }
